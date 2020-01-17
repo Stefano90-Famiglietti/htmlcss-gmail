@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(sfondo.jpg);
+    width: 50%;
+    margin: 0 auto;
+}
+
+.logo {
+    height: 100px;
+    vertical-align: middle;
+}
+
+.gmail {
+    font-size: 30px;
+    color: white;
+}
+
+.up {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bo {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.si {
+    color: white;
+    line-height: 50px;
+
+}
+
+.trenta {
+    background-color:orange;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.yes {
+    color: white;
+    line-height: 50px;
+    text-align: center;
+}
